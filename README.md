@@ -31,3 +31,7 @@ We got to learn about building a website, finding current paths for different ty
 
 Polishing the website and adding more ML Models, and potentially a chatbot. 
 
+## Dataset Used
+https://www.kaggle.com/datasets/fivethirtyeight/the-ultimate-halloween-candy-power-ranking/data
+
+
